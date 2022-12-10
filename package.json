@@ -1,12 +1,9 @@
 {
   "name": "jewoo",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "know about me!",
   "main": "index.js",
   "bin": "index.js",
-  "scripts": {
-    
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jeus0630/jewoo.git"
