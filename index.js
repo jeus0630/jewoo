@@ -26,6 +26,7 @@ ${chalk.dim(`
     NPM: https://www.npmjs.com/~jeus
     Github: https://github.com/jeus0630/
     StudyWiki: https://spicy-damselfly-bd9.notion.site/s-Study-Wiki-bf00fab411e44c6981c9ca183f2964ac
+    Blog: https://velog.io/@jewoo
     Resume: https://spicy-damselfly-bd9.notion.site/Frontend-Developer-bb24be2a10204801aa24d75de60171a2`)}
 `);
 });
